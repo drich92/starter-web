@@ -6,7 +6,8 @@ This repository is for showing how Git and GitHub work
 This change is here to help show git diff stuff.
 
 ## Purpose
+This is the purpose section 
 
-##Deployment
+## Deployment
 
 Sample website with plenty of files for demos
