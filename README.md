@@ -11,3 +11,6 @@ This is the purpose section
 ## Deployment
 
 Sample website with plenty of files for demos
+
+### Copyright
+2019 Git.Training
